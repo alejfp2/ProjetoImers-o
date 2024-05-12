@@ -1,2 +1,2 @@
-# ProjetoImers-o
+# ProjetoImersao
 Projeto Imersão IA Gemini
